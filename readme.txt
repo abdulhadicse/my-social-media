@@ -2,7 +2,7 @@
 Contributors: abdulhadicse
 Tags: share buttons, social media, social sharing, facebook, youtube, twitter, linkedin, about me
 Requires at least: 4.1
-Tested up to: 5.3
+Tested up to: 5.7
 Requires PHP: 5.6
 License: GPl V2
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
