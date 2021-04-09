@@ -11,9 +11,9 @@
  * Plugin Name:       My Social Media
  * Plugin URI:        https://github.com/abdulhadicse/my-social-media
  * Description:       This is a social media plugin that allows to display the administrator information where admin enter their social media information like Facebook, Twitter, LinkedIn, YouTube and more.
- * Version:           1.0
- * Requires at least: 5.2
- * Requires PHP:      7.2
+ * Version:           1.0.0
+ * Requires at least: 4.1
+ * Requires PHP:      5.6
  * Author:            Abdul Hadi
  * Author URI:        http://abdulhadi.info
  * Text Domain:       my-social-media
