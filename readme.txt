@@ -1,4 +1,4 @@
-=== User Role Blocker ===
+=== My Social Media ===
 Contributors: abdulhadicse
 Tags: share buttons, social media, social sharing, facebook, youtube, twitter, linkedin, about me
 Requires at least: 4.1
